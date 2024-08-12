@@ -12,3 +12,11 @@ body{
     left: 0;
     z-index: -1;
 }
+
+.informacoes{
+    display: none;
+}
+
+.informacoes.ativa{
+    display: block;
+}
