@@ -20,3 +20,10 @@ body{
 .informacoes.ativa{
     display: block;
 }
+
+.conteudo {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-evenly;
+	min-height: 100vh;
+}
